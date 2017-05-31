@@ -1,0 +1,33 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-7b0505f2:15c5e9e44cc:-7f95</id>
+  <name>WT30</name>
+  <mode>SINGLE</mode>
+  <title>WT30</title>
+  <abstractTxt>WT30</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fb3</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fb0</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl-2251d940:15c5e872946:-7ffd</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-2251d940:15c5e872946:-7ffd</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>19.035669084401093</minx>
+    <maxx>21.60966908440109</maxx>
+    <miny>38.669125002811995</miny>
+    <maxy>40.08812500281199</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

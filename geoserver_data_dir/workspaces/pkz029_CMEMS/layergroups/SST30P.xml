@@ -1,0 +1,29 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-7b0505f2:15c5e9e44cc:-7f98</id>
+  <name>SST30P</name>
+  <mode>SINGLE</mode>
+  <title>SST30P</title>
+  <abstractTxt>SST30P</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fda</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fd7</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>19.0295</minx>
+    <maxx>21.603499999999997</maxx>
+    <miny>38.6745</miny>
+    <maxy>40.0935</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

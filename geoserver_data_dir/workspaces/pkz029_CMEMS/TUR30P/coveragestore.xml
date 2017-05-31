@@ -1,0 +1,12 @@
+<coverageStore>
+  <id>CoverageStoreInfoImpl-7b0505f2:15c5e9e44cc:-7f90</id>
+  <name>TUR30P</name>
+  <description>TUR30P</description>
+  <type>ImageMosaic</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
+  </workspace>
+  <__default>false</__default>
+  <url>file:///root/stores/TUR30P</url>
+</coverageStore>

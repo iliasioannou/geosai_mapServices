@@ -1,0 +1,28 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-7b0505f2:15c5e9e44cc:-7fa5</id>
+  <name>CHL</name>
+  <mode>SINGLE</mode>
+  <title>CHL</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-411358cb:15c5e9b951b:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fec</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>19.035669084401093</minx>
+    <maxx>21.60966908440109</maxx>
+    <miny>38.669125002811995</miny>
+    <maxy>40.08812500281199</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

@@ -1,0 +1,15 @@
+<layer>
+  <name>CHL</name>
+  <id>LayerInfoImpl-411358cb:15c5e9b951b:-7ffb</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-2251d940:15c5e872946:-7ffd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-411358cb:15c5e9b951b:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
