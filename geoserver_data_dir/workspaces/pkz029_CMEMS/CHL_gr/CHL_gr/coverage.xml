@@ -1,16 +1,16 @@
 <coverage>
-  <id>CoverageInfoImpl-f640250:15c830c1067:-7fe2</id>
-  <name>CHL10</name>
-  <nativeName>CHL10</nativeName>
+  <id>CoverageInfoImpl-2197bb7b:15c8359e490:-7ff9</id>
+  <name>CHL_gr</name>
+  <nativeName>CHL_gr</nativeName>
   <namespace>
     <id>NamespaceInfoImpl-f640250:15c830c1067:-7fe4</id>
   </namespace>
-  <title>CHL10</title>
+  <title>CHL_gr</title>
   <description>Generated from ImageMosaic</description>
   <keywords>
     <string>WCS</string>
     <string>ImageMosaic</string>
-    <string>CHL10</string>
+    <string>CHL</string>
   </keywords>
   <nativeCRS>GEOGCS[&quot;WGS 84&quot;, 
   DATUM[&quot;World Geodetic System 1984&quot;, 
@@ -39,10 +39,10 @@
   <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
-    <entry key="dirName">CHL10_CHL10</entry>
+    <entry key="dirName">CHL_gr_CHL</entry>
   </metadata>
   <store class="coverageStore">
-    <id>CoverageStoreInfoImpl-f640250:15c830c1067:-7fe3</id>
+    <id>CoverageStoreInfoImpl-2197bb7b:15c8359e490:-7ffa</id>
   </store>
   <nativeFormat>ImageMosaic</nativeFormat>
   <grid dimension="2">
@@ -62,13 +62,13 @@
   </grid>
   <supportedFormats>
     <string>GEOTIFF</string>
-    <string>ImageMosaic</string>
-    <string>Gtopo30</string>
     <string>GIF</string>
     <string>PNG</string>
     <string>JPEG</string>
     <string>TIFF</string>
+    <string>Gtopo30</string>
     <string>ArcGrid</string>
+    <string>ImageMosaic</string>
   </supportedFormats>
   <interpolationMethods>
     <string>nearest neighbor</string>
@@ -145,5 +145,5 @@
       <string>None</string>
     </entry>
   </parameters>
-  <nativeCoverageName>CHL10</nativeCoverageName>
+  <nativeCoverageName>CHL</nativeCoverageName>
 </coverage>
