@@ -1,0 +1,25 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-742b0346:15c8316b6a9:-7ff5</id>
+  <name>CHL10</name>
+  <mode>SINGLE</mode>
+  <title>CHL10 group</title>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-f640250:15c830c1067:-7fe1</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-f640250:15c830c1067:-7fde</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>19.035669084401093</minx>
+    <maxx>21.60966908440109</maxx>
+    <miny>38.669125002811995</miny>
+    <maxy>40.08812500281199</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

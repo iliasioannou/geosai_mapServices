@@ -1,9 +1,9 @@
 <coverage>
-  <id>CoverageInfoImpl-7b0505f2:15c5e9e44cc:-7fd5</id>
+  <id>CoverageInfoImpl-742b0346:15c8316b6a9:-7ff8</id>
   <name>SST_gr</name>
   <nativeName>SST_gr</nativeName>
   <namespace>
-    <id>NamespaceInfoImpl-47ab468d:15c5e952a11:-7ff6</id>
+    <id>NamespaceInfoImpl-f640250:15c830c1067:-7fe4</id>
   </namespace>
   <title>SST_gr</title>
   <description>Generated from ImageMosaic</description>
@@ -42,7 +42,7 @@
     <entry key="dirName">SST_gr_SST</entry>
   </metadata>
   <store class="coverageStore">
-    <id>CoverageStoreInfoImpl-7b0505f2:15c5e9e44cc:-7fd6</id>
+    <id>CoverageStoreInfoImpl-742b0346:15c8316b6a9:-7ff9</id>
   </store>
   <nativeFormat>ImageMosaic</nativeFormat>
   <grid dimension="2">
@@ -61,14 +61,14 @@
     <crs>EPSG:4326</crs>
   </grid>
   <supportedFormats>
+    <string>Gtopo30</string>
+    <string>GEOTIFF</string>
+    <string>ImageMosaic</string>
     <string>GIF</string>
     <string>PNG</string>
     <string>JPEG</string>
     <string>TIFF</string>
-    <string>ImageMosaic</string>
-    <string>Gtopo30</string>
     <string>ArcGrid</string>
-    <string>GEOTIFF</string>
   </supportedFormats>
   <interpolationMethods>
     <string>nearest neighbor</string>
