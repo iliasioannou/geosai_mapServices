@@ -1,12 +1,12 @@
 <layer>
   <name>CHL_gr</name>
-  <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fec</id>
+  <id>LayerInfoImpl-2197bb7b:15c8359e490:-7ff8</id>
   <type>RASTER</type>
   <defaultStyle>
-    <id>StyleInfoImpl-2251d940:15c5e872946:-7ffd</id>
+    <id>StyleInfoImpl-f640250:15c830c1067:-7ffd</id>
   </defaultStyle>
   <resource class="coverage">
-    <id>CoverageInfoImpl-7b0505f2:15c5e9e44cc:-7fed</id>
+    <id>CoverageInfoImpl-2197bb7b:15c8359e490:-7ff9</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>

@@ -1,8 +1,8 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7ff8</id>
+  <id>LayerInfoImpl--5e9dd55e:15c8722bc1e:-7ff8</id>
   <enabled>true</enabled>
   <inMemoryCached>true</inMemoryCached>
-  <name>pkz029_CMEMS:CHL30</name>
+  <name>pkz029_CMEMS:CHL30_gr</name>
   <mimeFormats>
     <string>image/png</string>
     <string>image/jpeg</string>

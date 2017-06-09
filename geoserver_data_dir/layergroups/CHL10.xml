@@ -1,17 +1,14 @@
 <layerGroup>
-  <id>LayerGroupInfoImpl-7b0505f2:15c5e9e44cc:-7f9d</id>
-  <name>CHL30</name>
+  <id>LayerGroupInfoImpl-742b0346:15c8316b6a9:-7ff5</id>
+  <name>CHL10</name>
   <mode>SINGLE</mode>
-  <title>CHL30</title>
-  <workspace>
-    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
-  </workspace>
+  <title>CHL10 group</title>
   <publishables>
     <published type="layer">
-      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7ff8</id>
+      <id>LayerInfoImpl-f640250:15c830c1067:-7fe1</id>
     </published>
     <published type="layer">
-      <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7ff5</id>
+      <id>LayerInfoImpl-f640250:15c830c1067:-7fde</id>
     </published>
   </publishables>
   <styles>

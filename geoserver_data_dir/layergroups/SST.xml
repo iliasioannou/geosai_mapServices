@@ -1,0 +1,25 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-742b0346:15c8316b6a9:-7ff6</id>
+  <name>SST</name>
+  <mode>SINGLE</mode>
+  <title>SST group</title>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-742b0346:15c8316b6a9:-7ffa</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl-742b0346:15c8316b6a9:-7ff7</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>19.0295</minx>
+    <maxx>21.603499999999997</maxx>
+    <miny>38.6745</miny>
+    <maxy>40.0935</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>

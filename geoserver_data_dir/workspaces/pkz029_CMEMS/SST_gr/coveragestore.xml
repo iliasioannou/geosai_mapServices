@@ -1,11 +1,11 @@
 <coverageStore>
-  <id>CoverageStoreInfoImpl-7b0505f2:15c5e9e44cc:-7fd6</id>
+  <id>CoverageStoreInfoImpl-742b0346:15c8316b6a9:-7ff9</id>
   <name>SST_gr</name>
   <description>SST_gr</description>
   <type>ImageMosaic</type>
   <enabled>true</enabled>
   <workspace>
-    <id>WorkspaceInfoImpl-47ab468d:15c5e952a11:-7ff7</id>
+    <id>WorkspaceInfoImpl-f640250:15c830c1067:-7fe5</id>
   </workspace>
   <__default>false</__default>
   <url>file:///root/stores/SST_gr</url>

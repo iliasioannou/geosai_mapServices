@@ -1,9 +1,9 @@
 <coverage>
-  <id>CoverageInfoImpl-7b0505f2:15c5e9e44cc:-7ff6</id>
+  <id>CoverageInfoImpl--5e9dd55e:15c8722bc1e:-7ff9</id>
   <name>CHL30_gr</name>
   <nativeName>CHL30_gr</nativeName>
   <namespace>
-    <id>NamespaceInfoImpl-47ab468d:15c5e952a11:-7ff6</id>
+    <id>NamespaceInfoImpl-f640250:15c830c1067:-7fe4</id>
   </namespace>
   <title>CHL30_gr</title>
   <description>Generated from ImageMosaic</description>
@@ -42,7 +42,7 @@
     <entry key="dirName">CHL30_gr_CHL30</entry>
   </metadata>
   <store class="coverageStore">
-    <id>CoverageStoreInfoImpl-7b0505f2:15c5e9e44cc:-7ff7</id>
+    <id>CoverageStoreInfoImpl--5e9dd55e:15c8722bc1e:-7ffa</id>
   </store>
   <nativeFormat>ImageMosaic</nativeFormat>
   <grid dimension="2">
@@ -61,14 +61,14 @@
     <crs>EPSG:4326</crs>
   </grid>
   <supportedFormats>
+    <string>ArcGrid</string>
+    <string>GEOTIFF</string>
+    <string>ImageMosaic</string>
     <string>GIF</string>
     <string>PNG</string>
     <string>JPEG</string>
     <string>TIFF</string>
-    <string>ImageMosaic</string>
     <string>Gtopo30</string>
-    <string>ArcGrid</string>
-    <string>GEOTIFF</string>
   </supportedFormats>
   <interpolationMethods>
     <string>nearest neighbor</string>

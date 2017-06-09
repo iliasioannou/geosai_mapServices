@@ -1,12 +1,12 @@
 <layer>
   <name>SST</name>
-  <id>LayerInfoImpl-7b0505f2:15c5e9e44cc:-7fe9</id>
+  <id>LayerInfoImpl-742b0346:15c8316b6a9:-7ffa</id>
   <type>RASTER</type>
   <defaultStyle>
-    <id>StyleInfoImpl-2251d940:15c5e872946:-7ffd</id>
+    <id>StyleInfoImpl-f640250:15c830c1067:-7ffd</id>
   </defaultStyle>
   <resource class="coverage">
-    <id>CoverageInfoImpl-7b0505f2:15c5e9e44cc:-7fea</id>
+    <id>CoverageInfoImpl-742b0346:15c8316b6a9:-7ffb</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>
