@@ -1,0 +1,15 @@
+<layer>
+  <name>RC_ITA_TUR</name>
+  <id>LayerInfoImpl--11410e0c:15c9c8c12ba:-7ffb</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl-f640250:15c830c1067:-7ffd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl--11410e0c:15c9c8c12ba:-7ffc</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
