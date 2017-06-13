@@ -1,0 +1,28 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--51522abd:15ca191ae8f:-7fef</id>
+  <name>WT</name>
+  <mode>SINGLE</mode>
+  <title>WT</title>
+  <workspace>
+    <id>WorkspaceInfoImpl-f640250:15c830c1067:-7fe5</id>
+  </workspace>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--717aff70:15c9cbd67dc:-7ffb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--717aff70:15c9cbd67dc:-7ff8</id>
+    </published>
+  </publishables>
+  <styles>
+    <style/>
+    <style/>
+  </styles>
+  <bounds>
+    <minx>19.035669084401093</minx>
+    <maxx>21.60966908440109</maxx>
+    <miny>38.669125002811995</miny>
+    <maxy>40.08812500281199</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+</layerGroup>
