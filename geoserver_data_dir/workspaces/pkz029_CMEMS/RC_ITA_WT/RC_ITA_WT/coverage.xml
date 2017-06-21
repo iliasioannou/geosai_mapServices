@@ -39,6 +39,22 @@
   <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
+    <entry key="elevation">
+      <dimensionInfo>
+        <enabled>false</enabled>
+      </dimensionInfo>
+    </entry>
+    <entry key="time">
+      <dimensionInfo>
+        <enabled>true</enabled>
+        <presentation>LIST</presentation>
+        <units>ISO8601</units>
+        <defaultValue>
+          <strategy>MINIMUM</strategy>
+        </defaultValue>
+      </dimensionInfo>
+    </entry>
+    <entry key="cachingEnabled">false</entry>
     <entry key="dirName">RC_ITA_WT_WT</entry>
   </metadata>
   <store class="coverageStore">
@@ -61,13 +77,10 @@
     <crs>EPSG:4326</crs>
   </grid>
   <supportedFormats>
-    <string>ArcGrid</string>
     <string>GIF</string>
     <string>PNG</string>
     <string>JPEG</string>
     <string>TIFF</string>
-    <string>Gtopo30</string>
-    <string>ImageMosaic</string>
     <string>GEOTIFF</string>
   </supportedFormats>
   <interpolationMethods>
@@ -101,28 +114,12 @@
       <null/>
     </entry>
     <entry>
-      <string>MergeBehavior</string>
-      <string>FLAT</string>
-    </entry>
-    <entry>
-      <string>AllowMultithreading</string>
-      <string>false</string>
-    </entry>
-    <entry>
-      <string>MaxAllowedTiles</string>
-      <string>-1</string>
-    </entry>
-    <entry>
-      <string>OutputTransparentColor</string>
-      <null/>
-    </entry>
-    <entry>
-      <string>USE_JAI_IMAGEREAD</string>
-      <string>true</string>
-    </entry>
-    <entry>
       <string>Filter</string>
       <null/>
+    </entry>
+    <entry>
+      <string>MergeBehavior</string>
+      <string>FLAT</string>
     </entry>
     <entry>
       <string>InputTransparentColor</string>
@@ -137,12 +134,28 @@
       <string>false</string>
     </entry>
     <entry>
+      <string>AllowMultithreading</string>
+      <string>false</string>
+    </entry>
+    <entry>
+      <string>MaxAllowedTiles</string>
+      <string>-1</string>
+    </entry>
+    <entry>
       <string>SORTING</string>
       <null/>
     </entry>
     <entry>
       <string>FootprintBehavior</string>
       <string>None</string>
+    </entry>
+    <entry>
+      <string>OutputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>USE_JAI_IMAGEREAD</string>
+      <string>true</string>
     </entry>
   </parameters>
   <nativeCoverageName>WT</nativeCoverageName>
