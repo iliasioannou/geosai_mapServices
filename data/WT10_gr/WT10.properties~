@@ -3,7 +3,7 @@
 Levels=0.011,0.011
 Heterogeneous=false
 TimeAttribute=time
-AbsolutePath=true
+AbsolutePath=false
 Name=WT10
 TypeName=WT10
 Caching=false
