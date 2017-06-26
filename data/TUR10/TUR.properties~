@@ -1,0 +1,19 @@
+#-Automagically created from GeoTools-
+#Mon Jun 13 16:09:08 CEST 2016
+Levels=0.011,0.011
+Heterogeneous=false
+TimeAttribute=time
+AbsolutePath=true
+<<<<<<< HEAD:data/TUR10/TUR.properties
+Name=TUR
+TypeName=TUR
+=======
+Name=SST
+TypeName=SST
+>>>>>>> servizi10g:data/TUR10/SST.properties
+Caching=false
+ExpandToRGB=false
+LocationAttribute=location
+SuggestedSPI=it.geosolutions.imageioimpl.plugins.tiff.TIFFImageReaderSpi
+CheckAuxiliaryMetadata=false
+LevelsNum=1
