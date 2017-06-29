@@ -1,12 +1,12 @@
 <layer>
-  <name>RC_GRE_CHL</name>
-  <id>LayerInfoImpl--1cca7e4b:15c9b5e1c36:-7ff2</id>
+  <name>RC_GRE_TUR30P</name>
+  <id>LayerInfoImpl-dc46ae4:15cf4411f52:-7fe6</id>
   <type>RASTER</type>
   <defaultStyle>
     <id>StyleInfoImpl--391b03c9:15ccaf0ce9b:-7ffd</id>
   </defaultStyle>
   <resource class="coverage">
-    <id>CoverageInfoImpl--1cca7e4b:15c9b5e1c36:-7ff3</id>
+    <id>CoverageInfoImpl-dc46ae4:15cf4411f52:-7fe7</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>

@@ -114,28 +114,12 @@
       <null/>
     </entry>
     <entry>
-      <string>MergeBehavior</string>
-      <string>FLAT</string>
-    </entry>
-    <entry>
-      <string>AllowMultithreading</string>
-      <string>false</string>
-    </entry>
-    <entry>
-      <string>MaxAllowedTiles</string>
-      <string>-1</string>
-    </entry>
-    <entry>
-      <string>OutputTransparentColor</string>
-      <null/>
-    </entry>
-    <entry>
-      <string>USE_JAI_IMAGEREAD</string>
-      <string>true</string>
-    </entry>
-    <entry>
       <string>Filter</string>
       <null/>
+    </entry>
+    <entry>
+      <string>MergeBehavior</string>
+      <string>FLAT</string>
     </entry>
     <entry>
       <string>InputTransparentColor</string>
@@ -150,12 +134,28 @@
       <string>false</string>
     </entry>
     <entry>
+      <string>AllowMultithreading</string>
+      <string>false</string>
+    </entry>
+    <entry>
+      <string>MaxAllowedTiles</string>
+      <string>-1</string>
+    </entry>
+    <entry>
       <string>SORTING</string>
       <null/>
     </entry>
     <entry>
       <string>FootprintBehavior</string>
       <string>None</string>
+    </entry>
+    <entry>
+      <string>OutputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>USE_JAI_IMAGEREAD</string>
+      <string>true</string>
     </entry>
   </parameters>
   <nativeCoverageName>SST</nativeCoverageName>

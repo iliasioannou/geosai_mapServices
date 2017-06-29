@@ -39,6 +39,7 @@
   <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
   <enabled>true</enabled>
   <metadata>
+    <entry key="cachingEnabled">false</entry>
     <entry key="dirName">RC_ITA_WT30_WT30</entry>
   </metadata>
   <store class="coverageStore">
@@ -66,9 +67,6 @@
     <string>JPEG</string>
     <string>TIFF</string>
     <string>GEOTIFF</string>
-    <string>ImageMosaic</string>
-    <string>Gtopo30</string>
-    <string>ArcGrid</string>
   </supportedFormats>
   <interpolationMethods>
     <string>nearest neighbor</string>
@@ -101,28 +99,12 @@
       <null/>
     </entry>
     <entry>
-      <string>MergeBehavior</string>
-      <string>FLAT</string>
-    </entry>
-    <entry>
-      <string>AllowMultithreading</string>
-      <string>false</string>
-    </entry>
-    <entry>
-      <string>MaxAllowedTiles</string>
-      <string>-1</string>
-    </entry>
-    <entry>
-      <string>OutputTransparentColor</string>
-      <null/>
-    </entry>
-    <entry>
-      <string>USE_JAI_IMAGEREAD</string>
-      <string>true</string>
-    </entry>
-    <entry>
       <string>Filter</string>
       <null/>
+    </entry>
+    <entry>
+      <string>MergeBehavior</string>
+      <string>FLAT</string>
     </entry>
     <entry>
       <string>InputTransparentColor</string>
@@ -137,12 +119,28 @@
       <string>false</string>
     </entry>
     <entry>
+      <string>AllowMultithreading</string>
+      <string>false</string>
+    </entry>
+    <entry>
+      <string>MaxAllowedTiles</string>
+      <string>-1</string>
+    </entry>
+    <entry>
       <string>SORTING</string>
       <null/>
     </entry>
     <entry>
       <string>FootprintBehavior</string>
       <string>None</string>
+    </entry>
+    <entry>
+      <string>OutputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>USE_JAI_IMAGEREAD</string>
+      <string>true</string>
     </entry>
   </parameters>
   <nativeCoverageName>WT30</nativeCoverageName>

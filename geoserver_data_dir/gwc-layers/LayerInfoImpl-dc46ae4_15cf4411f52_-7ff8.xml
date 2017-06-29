@@ -1,8 +1,8 @@
 <GeoServerTileLayer>
-  <id>LayerInfoImpl--1cca7e4b:15c9b5e1c36:-7ff2</id>
+  <id>LayerInfoImpl-dc46ae4:15cf4411f52:-7ff8</id>
   <enabled>true</enabled>
   <inMemoryCached>true</inMemoryCached>
-  <name>pkz029_CMEMS:RC_GRE_CHL</name>
+  <name>pkz029_CMEMS:RC_GRE_SST30P</name>
   <mimeFormats>
     <string>image/png</string>
     <string>image/jpeg</string>
@@ -26,7 +26,7 @@
       <key>STYLES</key>
       <defaultValue></defaultValue>
       <availableStyles class="sorted-set"/>
-      <defaultStyle>pkz029_CMEMS:CHL</defaultStyle>
+      <defaultStyle>pkz029_CMEMS:SST</defaultStyle>
     </styleParameterFilter>
   </parameterFilters>
   <gutter>0</gutter>
