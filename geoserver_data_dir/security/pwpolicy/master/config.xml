@@ -1,5 +1,5 @@
 <passwordPolicy>
-  <id>f640250:15c830c1067:-7ff6</id>
+  <id>-7e036de1:15cf80b656f:-7ff6</id>
   <name>master</name>
   <className>org.geoserver.security.validation.PasswordValidatorImpl</className>
   <uppercaseRequired>false</uppercaseRequired>
