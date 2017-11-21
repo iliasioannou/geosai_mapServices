@@ -8,8 +8,8 @@ services:
     volumes:
       - ./data:/root/stores
       - ./geoserver_data_dir:/opt/geoserver/data_dir
-      - ~/pkz029_UU_CMEMS_dockerized/shared_data:/shared
+      - ~/pkh111_EOSAI_MapServices/shared_data:/shared
 networks:
   default:
     external:
-      name: cmems
+      name: eosai
