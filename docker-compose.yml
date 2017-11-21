@@ -2,7 +2,7 @@ version: '2'
 services:
    geoserver:
     image: kartoza/geoserver
-    container_name: cmems_geoserver
+    container_name: eosai_geoserver
     ports:
       - 9090:8080
     volumes:
