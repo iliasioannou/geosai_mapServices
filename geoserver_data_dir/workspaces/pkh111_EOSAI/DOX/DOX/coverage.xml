@@ -1,0 +1,183 @@
+<coverage>
+  <id>CoverageInfoImpl-2f879515:160fe4ef434:-7ff2</id>
+  <name>DOX</name>
+  <nativeName>DOX</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--7e036de1:15cf80b656f:-7fe4</id>
+  </namespace>
+  <title>DOX</title>
+  <description>Generated from ImageMosaic</description>
+  <keywords>
+    <string>DOX</string>
+    <string>WCS</string>
+    <string>ImageMosaic</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;WGS 84 / UTM zone 32N&quot;, 
+  GEOGCS[&quot;WGS 84&quot;, 
+    DATUM[&quot;World Geodetic System 1984&quot;, 
+      SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]], 
+  PROJECTION[&quot;Transverse_Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;9807&quot;]], 
+  PARAMETER[&quot;central_meridian&quot;, 9.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 0.9996], 
+  PARAMETER[&quot;false_easting&quot;, 500000.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;32632&quot;]]</nativeCRS>
+  <srs>EPSG:32632</srs>
+  <nativeBoundingBox>
+    <minx>624800.0</minx>
+    <maxx>632600.0</maxx>
+    <miny>5171500.0</miny>
+    <maxy>5184500.0</maxy>
+    <crs class="projected">EPSG:32632</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>10.632011407649838</minx>
+    <maxx>10.737720124157365</maxx>
+    <miny>46.68391692622579</miny>
+    <maxy>46.80235846284551</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>REPROJECT_TO_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="elevation">
+      <dimensionInfo>
+        <enabled>false</enabled>
+      </dimensionInfo>
+    </entry>
+    <entry key="time">
+      <dimensionInfo>
+        <enabled>true</enabled>
+        <presentation>LIST</presentation>
+        <units>ISO8601</units>
+        <defaultValue/>
+      </dimensionInfo>
+    </entry>
+    <entry key="cachingEnabled">false</entry>
+    <entry key="dirName">DOX_DOX</entry>
+  </metadata>
+  <store class="coverageStore">
+    <id>CoverageStoreInfoImpl-2f879515:160fe4ef434:-7ff6</id>
+  </store>
+  <nativeFormat>ImageMosaic</nativeFormat>
+  <grid dimension="2">
+    <range>
+      <low>0 0</low>
+      <high>78 130</high>
+    </range>
+    <transform>
+      <scaleX>100.0</scaleX>
+      <scaleY>-100.0</scaleY>
+      <shearX>0.0</shearX>
+      <shearY>0.0</shearY>
+      <translateX>624850.0</translateX>
+      <translateY>5184450.0</translateY>
+    </transform>
+    <crs>EPSG:32632</crs>
+  </grid>
+  <supportedFormats>
+    <string>GIF</string>
+    <string>PNG</string>
+    <string>JPEG</string>
+    <string>TIFF</string>
+    <string>GEOTIFF</string>
+  </supportedFormats>
+  <interpolationMethods>
+    <string>nearest neighbor</string>
+    <string>bilinear</string>
+    <string>bicubic</string>
+  </interpolationMethods>
+  <defaultInterpolationMethod>nearest neighbor</defaultInterpolationMethod>
+  <dimensions>
+    <coverageDimension>
+      <name>GRAY_INDEX</name>
+      <description>GridSampleDimension[-Infinity,Infinity]</description>
+      <range>
+        <min>-inf</min>
+        <max>inf</max>
+      </range>
+      <dimensionType>
+        <name>REAL_32BITS</name>
+      </dimensionType>
+    </coverageDimension>
+  </dimensions>
+  <requestSRS>
+    <string>EPSG:32632</string>
+  </requestSRS>
+  <responseSRS>
+    <string>EPSG:32632</string>
+  </responseSRS>
+  <parameters>
+    <entry>
+      <string>BackgroundValues</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>OVERVIEW_POLICY</string>
+      <string>QUALITY</string>
+    </entry>
+    <entry>
+      <string>MergeBehavior</string>
+      <string>FLAT</string>
+    </entry>
+    <entry>
+      <string>AllowMultithreading</string>
+      <string>false</string>
+    </entry>
+    <entry>
+      <string>MaxAllowedTiles</string>
+      <string>-1</string>
+    </entry>
+    <entry>
+      <string>ExcessGranuleRemoval</string>
+      <string>NONE</string>
+    </entry>
+    <entry>
+      <string>OutputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>USE_JAI_IMAGEREAD</string>
+      <string>true</string>
+    </entry>
+    <entry>
+      <string>Bands</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>Filter</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>InputTransparentColor</string>
+      <null/>
+    </entry>
+    <entry>
+      <string>SUGGESTED_TILE_SIZE</string>
+      <string>512,512</string>
+    </entry>
+    <entry>
+      <string>Accurate resolution computation</string>
+      <string>false</string>
+    </entry>
+    <entry>
+      <string>SORTING</string>
+      <string>time D</string>
+    </entry>
+    <entry>
+      <string>FootprintBehavior</string>
+      <string>None</string>
+    </entry>
+  </parameters>
+  <nativeCoverageName>DOX</nativeCoverageName>
+</coverage>

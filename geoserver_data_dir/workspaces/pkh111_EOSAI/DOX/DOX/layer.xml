@@ -1,0 +1,15 @@
+<layer>
+  <name>DOX</name>
+  <id>LayerInfoImpl-2f879515:160fe4ef434:-7ff1</id>
+  <type>RASTER</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--7e036de1:15cf80b656f:-7ffd</id>
+  </defaultStyle>
+  <resource class="coverage">
+    <id>CoverageInfoImpl-2f879515:160fe4ef434:-7ff2</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
