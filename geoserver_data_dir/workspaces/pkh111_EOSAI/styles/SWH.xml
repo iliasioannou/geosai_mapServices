@@ -1,6 +1,6 @@
 <style>
-  <id>StyleInfoImpl-48440cdf:15cf8110ac6:-7ff9</id>
-  <name>SST</name>
+  <id>StyleInfoImpl-48440cdf:15cf8110ac6:-7ffa</id>
+  <name>SWH</name>
   <workspace>
     <id>WorkspaceInfoImpl--7e036de1:15cf80b656f:-7fe5</id>
   </workspace>
@@ -8,5 +8,5 @@
   <languageVersion>
     <version>1.0.0</version>
   </languageVersion>
-  <filename>SST.sld</filename>
+  <filename>SWH.sld</filename>
 </style>
