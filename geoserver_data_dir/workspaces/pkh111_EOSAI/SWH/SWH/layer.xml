@@ -1,17 +1,17 @@
 <layer>
   <name>SWH</name>
-  <id>LayerInfoImpl-2f879515:160fe4ef434:-7fe5</id>
+  <id>LayerInfoImpl-3ae034c2:1614ba28c98:-7fce</id>
   <type>RASTER</type>
   <defaultStyle>
-    <id>StyleInfoImpl--7e036de1:15cf80b656f:-7ffd</id>
+    <id>StyleInfoImpl--3df00c01:1614820e635:-7ffd</id>
   </defaultStyle>
-    <styles class="linked-hash-set">
+  <styles class="linked-hash-set">
     <style>
       <id>StyleInfoImpl-3ae034c2:1614ba28c98:-7fd9</id>
     </style>
   </styles>
   <resource class="coverage">
-    <id>CoverageInfoImpl-2f879515:160fe4ef434:-7fe6</id>
+    <id>CoverageInfoImpl-3ae034c2:1614ba28c98:-7fcf</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>

@@ -1,9 +1,9 @@
 <layer>
   <name>SAL</name>
-  <id>LayerInfoImpl-2f879515:160fe4ef434:-7feb</id>
+  <id>LayerInfoImpl-3ae034c2:1614ba28c98:-7fd0</id>
   <type>RASTER</type>
   <defaultStyle>
-    <id>StyleInfoImpl--7e036de1:15cf80b656f:-7ffd</id>
+    <id>StyleInfoImpl--3df00c01:1614820e635:-7ffd</id>
   </defaultStyle>
   <styles class="linked-hash-set">
     <style>
@@ -11,7 +11,7 @@
     </style>
   </styles>
   <resource class="coverage">
-    <id>CoverageInfoImpl-2f879515:160fe4ef434:-7fec</id>
+    <id>CoverageInfoImpl-3ae034c2:1614ba28c98:-7fd1</id>
   </resource>
   <attribution>
     <logoWidth>0</logoWidth>

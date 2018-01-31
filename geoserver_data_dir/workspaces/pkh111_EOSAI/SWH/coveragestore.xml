@@ -1,11 +1,11 @@
 <coverageStore>
-  <id>CoverageStoreInfoImpl-2f879515:160fe4ef434:-7fea</id>
+  <id>CoverageStoreInfoImpl-3ae034c2:1614ba28c98:-7fe3</id>
   <name>SWH</name>
   <description>SWH</description>
   <type>ImageMosaic</type>
   <enabled>true</enabled>
   <workspace>
-    <id>WorkspaceInfoImpl--7e036de1:15cf80b656f:-7fe5</id>
+    <id>WorkspaceInfoImpl-f1c7b7c:1614b492839:-7ffc</id>
   </workspace>
   <__default>false</__default>
   <url>file:eosai/config/SWH</url>
