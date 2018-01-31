@@ -5,6 +5,11 @@
   <defaultStyle>
     <id>StyleInfoImpl--7e036de1:15cf80b656f:-7ffd</id>
   </defaultStyle>
+  <styles class="linked-hash-set">
+    <style>
+      <id>StyleInfoImpl-3ae034c2:1614ba28c98:-7fdc</id>
+    </style>
+  </styles>
   <resource class="coverage">
     <id>CoverageInfoImpl-2f879515:160fe4ef434:-7ff2</id>
   </resource>
