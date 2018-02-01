@@ -9,6 +9,7 @@ services:
       - ./data:/root/stores
       - ./geoserver_data_dir:/opt/geoserver/data_dir
       - ./shared_data/geoserver/setenv.sh:/usr/local/tomcat/bin/setenv.sh
+      - ./wps:/mnt
       - ~/pkh111_EOSAI_MapServices/shared_data:/shared
 networks:
   default:
