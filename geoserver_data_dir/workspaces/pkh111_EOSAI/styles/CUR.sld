@@ -8,14 +8,6 @@
             <sld:Name>CUR</sld:Name>
             <sld:Title/>
             <sld:FeatureTypeStyle>
-                <sld:Name/>
-                <Transformation>
-                    <ogc:Function name="gs:RasterAsPointCollection">
-                        <ogc:Function name="parameter">
-                            <ogc:Literal>data</ogc:Literal>
-                        </ogc:Function>
-                    </ogc:Function>
-                </Transformation>
                 <sld:Rule>
                     <sld:RasterSymbolizer>
                         <sld:Geometry>
@@ -40,33 +32,44 @@
                         </sld:ColorMap>
                     </sld:RasterSymbolizer>
                 </sld:Rule>
-                <sld:Rule>
-                    <sld:Filter>
-                        <sld:And>
-                            <sld:PropertyIsGreaterThanOrEqualTo>
-                                <sld:PropertyName>GRAY_INDEX</sld:PropertyName>
-                                <sld:Literal>0</sld:Literal>
-                            </sld:PropertyIsGreaterThanOrEqualTo>
-                            <sld:PropertyIsLessThanOrEqualTo>
-                                <sld:PropertyName>GRAY_INDEX</sld:PropertyName>
-                                <sld:Literal>0.5</sld:Literal>
-                            </sld:PropertyIsLessThanOrEqualTo>
-                        </sld:And>
-                    </sld:Filter>
-                    <sld:PointSymbolizer>
-                        <sld:Graphic>
-                            <sld:Mark>
-                                <sld:WellKnownName>extshape://arrow</sld:WellKnownName>
-                                <sld:Stroke>
-                                    <sld:CssParameter name="stroke">#000000</sld:CssParameter>
-                                    <sld:CssParameter name="stroke-width">0.8</sld:CssParameter>
-                                </sld:Stroke>
-                                <sld:Fill>
-                                   <sld:CssParameter name="fill">#000000</sld:CssParameter>
-                                </sld:Fill>
-                            </sld:Mark>
-                            <sld:Size>8</sld:Size>
-                            <sld:Rotation>
+            </sld:FeatureTypeStyle>
+
+            <sld:FeatureTypeStyle>
+                    <Transformation>
+                        <ogc:Function name="gs:RasterAsPointCollection">
+                            <ogc:Function name="parameter">
+                                <ogc:Literal>data</ogc:Literal>
+                            </ogc:Function>
+                        </ogc:Function>
+                    </Transformation>
+
+                    <sld:Rule>
+                        <sld:Filter>
+                            <sld:And>
+                                <sld:PropertyIsGreaterThanOrEqualTo>
+                                    <sld:PropertyName>GRAY_INDEX</sld:PropertyName>
+                                    <sld:Literal>0</sld:Literal>
+                                </sld:PropertyIsGreaterThanOrEqualTo>
+                                <sld:PropertyIsLessThanOrEqualTo>
+                                    <sld:PropertyName>GRAY_INDEX</sld:PropertyName>
+                                    <sld:Literal>0.5</sld:Literal>
+                                </sld:PropertyIsLessThanOrEqualTo>
+                            </sld:And>
+                        </sld:Filter>
+                        <sld:PointSymbolizer>
+                            <sld:Graphic>
+                                <sld:Mark>
+                                    <sld:WellKnownName>extshape://arrow</sld:WellKnownName>
+                                    <sld:Stroke>
+                                        <sld:CssParameter name="stroke">#000000</sld:CssParameter>
+                                        <sld:CssParameter name="stroke-width">0.8</sld:CssParameter>
+                                    </sld:Stroke>
+                                    <sld:Fill>
+                                       <sld:CssParameter name="fill">#000000</sld:CssParameter>
+                                   </sld:Fill>
+                               </sld:Mark>
+                               <sld:Size>8</sld:Size>
+                               <sld:Rotation>
                                 <ogc:Function name="if_then_else">
                                     <ogc:Function name="greaterThan">
                                         <ogc:PropertyName>Band2</ogc:PropertyName>
@@ -85,7 +88,9 @@
                         </sld:Graphic>
                     </sld:PointSymbolizer>
                 </sld:Rule>
+                
             </sld:FeatureTypeStyle>
+
         </sld:UserStyle>
     </sld:UserLayer>
 </sld:StyledLayerDescriptor>
